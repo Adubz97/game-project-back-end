@@ -1,33 +1,27 @@
-# JustRight
-An app that connects parents to top quality childcare services such as tutoring and babysitting. 
 
-## JustRight - Demo
-[![JustRight Demo Video](https://img.youtube.com/vi/sr2GfYfxuak/0.jpg)](https://youtu.be/sr2GfYfxuak)
+# FlashLight
+A game in which a player holds a flashlight to scare away zombies while collecting Ruby gems !
 
- ## Available features:
- 
-  - Core Functionalities:
-    - **Users can sign up as a client or tutor/babysitter.**
-    - **Users are welcomed with a calendar upon logging in.**
-    - **View a list of tutors/babysitters on the platform.**
-    - **View list of jobpost created.**
-    - **Create a jobpost.**
-    - **Submit an offer.**
-    - **Accept or deny an offer.**
-    - **Schedule an appointment.**
+## Available features
+ - **Player can navigate between obstacles and collect ruby gems.**
+ - **Player can collect a maximam of for hearts.**
+ - **Zombies increase in number as you eat more gems each round.**
+ - **Portals available at the top and the bottom of the arena to run away from zombies.**
 
-## Installation
-
+## Installation...
 - Fork and clone this repo
-- Fork and clone the [Frontend Repo](https://github.com/Adubz97/game-project-front-end)
-- To run this application
-  - First cd into JustRight-Backend file directory
-    - Run "rails db:create"
-    - Run "rails db:migrate"
-    - Run "rails s"
-  - After the backend is up, cd into JustRight-Frontend file directory
-    - Run "npm install"
-    - Run "npm start"
+- To run this application, cd into the file directory
+ -
+ -
+  
+  
+## FlashLight - Demo
+[![FlashLight Demo Video](https://img.youtube.com/vi/hvUnfy2FNpA/0.jpg)](https://youtu.be/hvUnfy2FNpA)
+
+## Authors
+- Abdullah Albasha (https://github.com/Adubz97)
+
+- Penn Diba (https://github.com/pennd44)
 
 ## Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/Adubz97/game-project-back-end/issues. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
